@@ -4,14 +4,72 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Website</title>
+  <title>My Advanced Website</title>
   <style>
     /* Add your CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    nav ul li {
+      margin: 0 10px;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    section {
+      margin-bottom: 40px;
+    }
+
+    section h2 {
+      color: #333;
+    }
+
+    section p {
+      line-height: 1.6;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
   <header>
-    <h1>Welcome to My Website</h1>
+    <h1>Welcome to My Advanced Website</h1>
     <nav>
       <ul>
         <li><a href="#">Home</a></li>
@@ -25,7 +83,8 @@
   <main>
     <section>
       <h2>About</h2>
-      <p>This is a brief description of my website.</p>
+      <p>This is a brief description of my advanced website.</p>
+      <img src="image.jpg" alt="Image" width="400" height="200">
     </section>
     
     <section>
@@ -55,7 +114,8 @@
   </main>
   
   <footer>
-    <p>&copy; 2023 My Website. All rights reserved.</p>
+    <p>&copy; 2023 My Advanced Website. All rights reserved.</p>
   </footer>
 </body>
 </html>
+
