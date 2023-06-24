@@ -1,5 +1,5 @@
 # mhdkhairfan.github.io
-`<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -114,4 +114,4 @@
     <p>&copy; 2023 My Advanced Website. All rights reserved.</p>
   </footer>
 </body>
-</html>`"
+</html>
